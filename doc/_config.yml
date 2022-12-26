@@ -1,7 +1,9 @@
 title: Obj1257
 description: Math and Crypto Writeups
+locale: "fr-FR"
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
